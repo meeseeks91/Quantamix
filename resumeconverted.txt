@@ -1,0 +1,82 @@
+Work Experience / Internship
+Lead Business Analyst , United Health Group (Optum), Noida
+May 2017 – Present
+§ Obtained time(months) till churn for each customer in a certain study period spanned across years
+Customer Lifetime § Accelerated failure time(AFT) survival analysis technique was applied to obtain survival time
+§ Checked percentage of customers having difference in prediction & actual in fewer months
+Mode l
+§ Profiling was done in lower & higher months to study the change in variables leading to churn
+§ Ascertain the various factors for Medicare members to complete and not complete Housecalls
+Housecall
+Opportu nity C luster § Utilized Random forest and its distance matrix for clustering the data into multiple segments
+§ Profiled the segments based on demographics, medical/pharmacy claims and interaction data
+Se gm e ntation
+§ Targeted housecalls can be made by marketers based on profiling and completion rate of clusters
+§
+Outreach optimization of various BCS screening campaigns for the Medicare members
+Breast cancer
+screening Cam pai gn § Utilized Random Forest to create multiple segments and obtain pivotal factors for BCS screening
+optim ization (B C S) § Applied simple Markov chain for each segment to predict the most optimized campaign for BCS
+§ Prioritized campaigns can be given by marketers to eligible members for better completion rates
+Analyst Intern - McKinsey Knowledge Centre, Gurgaon
+Nov 2016 – April 2017
+§ Worked in customer life cycle management project for potential clients across the telecom industry
+Telecom Digital § Debugged SAS scripts and utilized SQL scripts to obtain multiple datasets for dashboards
+Sprint
+§ Automated the diagnostic dashboard using advanced Excel and Tableau to help derive insights
+§ Built an incipient predictive model using logistic regression to predict churn of postpaid users
+Operations
+Forecasting
+§ Provide better supply chain decisions to potential clients using various forecasting techniques
+§ Created automated forecasting models using ARIMA/ GARCH & open source prophet
+Service Delivery Consultant, Hewlett Packard, Bangalore
+Sep 2014 – Jun 2015
+Telecom Network § Worked on network fault management system to minimize downtime of network infrastructure
+optim ization
+§ Collaborated with a team to develop Perl scripts for automation and upkeeping of various servers
+Academics
+Degree / Examination
+Year
+Board / University
+% / CGPA
+PGDBA
+2015-2017
+IIM- Calcutta , ISI- Kolkata, IIT- KGP
+8.1
+B.E, Computer Science Engg.
+2010-2014
+PESIT Bangalore South
+71
+Class XII
+2010
+CMR National PU College
+80.1
+Class X
+2008
+CMR National Public School
+89.2
+PGDBA Analytics relevant Projects
+§ Assessed credit card fraud risk of banking dataset containing 26,000 observations and 32 variables
+Credit risk fraud § Initial descriptive analysis was carried out to figure out the potential variables causing fraud
+§ Random forest was deployed for higher interoperability and obtained a model accuracy of 80%
+§ Analyzed post financial crisis (‘08) UCI dataset of a Portuguese bank for various customer profiles
+Bank Marketing § Applied DBScan, K-Means techniques to obtain profiles of the customers who made term deposits
+§ Determine highly probable potential new customers who are likely to create a new term deposits
+LatentView Winter § Analyzed the success and failure of around 472 startups and with more than 100 characteristics
+§ Applied multiple imputation applied models such as Random forest, CART, Logistic regression
+project
+§ Performance of models were measured using the AUC curves and obtained an accuracy of 84%
+Automobile Industry § Analyzed the automobile industry from social media of four car brands with over 0.8 million data
+§ Perceptual attributes such as comfort, price, quality, safety was compared for the four major cars
+analysis
+§ Analyzed sentiments of four car brands and customer’s expectations across low, medium, high end
+‘What’s Cooking?’ – § Competed in Kaggle as a team to predict cuisine from given ingredients list and web crawled list
+Cuisine prediction § Web crawled with Python Scrapy Gradient Boosting(XGBoost), Random Forest, Naïve Bayes in R
+§ Obtained an accuracy of 0.791 and best leaderboard rank of 186 th out of 1036 participants in Kaggle
+Achievements / Responsibilities
+§ Bravo award winner in UHG for innovation in ML project & recognition from client as a team for campaign optimization
+§ Winner of Machine learning challenge in UHG, with multiple teams having participated from various geographic locations
+§ Member of core organizing team for organizing technical hackathon(inGenius) of 110+ teams, PESIT Bangalore, 2013
+§ Secured a rank of 3 in class 12 in National Science Olympiad and National Cyber Olympiad, CMR National PU, 2009
+Technical Skills
+§ Tools – R, Python, SQL, PySpark (Bigdata), Hive (Bigdata), Tableau, Advanced Excel
